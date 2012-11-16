@@ -20,15 +20,15 @@
     </define>
     <verbose-stacktraces>true</verbose-stacktraces>
     <source-path append="true">
-      <path-element>C:\Documents and Settings\IA\My Documents\Téléchargements\SMA_FIGHT_BASE\SMA_FIGHT_BASE\src</path-element>
+      <path-element>Z:\as3\src</path-element>
       <path-element>C:\Program Files\FlashDevelop\Library\AS3\classes</path-element>
     </source-path>
     <library-path append="true">
-      <path-element>C:\Documents and Settings\IA\My Documents\Téléchargements\SMA_FIGHT_BASE\SMA_FIGHT_BASE\bin\assets\assets.swc</path-element>
+      <path-element>Z:\as3\bin\assets\assets.swc</path-element>
     </library-path>
   </compiler>
   <file-specs>
-    <path-element>C:\Documents and Settings\IA\My Documents\Téléchargements\SMA_FIGHT_BASE\SMA_FIGHT_BASE\src\com\novabox\MASwithTwoNests\Main.as</path-element>
+    <path-element>Z:\as3\src\com\novabox\MASwithTwoNests\Main.as</path-element>
   </file-specs>
   <default-background-color>#FFFFFF</default-background-color>
   <default-frame-rate>30</default-frame-rate>

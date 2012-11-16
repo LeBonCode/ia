@@ -16,19 +16,19 @@
     </define>
     <define append="true">
       <name>CONFIG::timeStamp</name>
-      <value>'26/10/2012'</value>
+      <value>'16/11/2012'</value>
     </define>
     <verbose-stacktraces>true</verbose-stacktraces>
     <source-path append="true">
-      <path-element>C:\Users\ophir.paz\Downloads\SMA_FIGHT_BASE\src</path-element>
-      <path-element>C:\Program Files (x86)\FlashDevelop\Library\AS3\classes</path-element>
+      <path-element>Z:\as3\src</path-element>
+      <path-element>C:\Program Files\FlashDevelop\Library\AS3\classes</path-element>
     </source-path>
     <library-path append="true">
-      <path-element>C:\Users\ophir.paz\Downloads\SMA_FIGHT_BASE\bin\assets\assets.swc</path-element>
+      <path-element>Z:\as3\bin\assets\assets.swc</path-element>
     </library-path>
   </compiler>
   <file-specs>
-    <path-element>C:\Users\ophir.paz\Downloads\SMA_FIGHT_BASE\src\com\novabox\MASwithTwoNests\Main.as</path-element>
+    <path-element>Z:\as3\src\com\novabox\MASwithTwoNests\Main.as</path-element>
   </file-specs>
   <default-background-color>#FFFFFF</default-background-color>
   <default-frame-rate>30</default-frame-rate>

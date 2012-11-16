@@ -5,6 +5,7 @@
 	import flash.display.Stage;
 	import flash.events.Event;
 	import flash.geom.Point;
+	import com.TrioDeChoc.TeamTrioDeChoc;
 	
 	
 	/**
@@ -47,9 +48,13 @@
 																0xAA0000,
 																new Array(AgentType.AGENT_BOT));
 																
+		public static const TEAM_TRIO_DE_CHOC:BotTeam = new BotTeam(	"TeamTrioDeChoc",
+																0x00127255,
+																new Array(AgentType.AGENT_BOT));														
+																
 															
 		
-		public static const ALL_TEAMS:Array = new Array(CUSTOM_TEAM); 
+		public static const ALL_TEAMS:Array = new Array(CUSTOM_TEAM,TEAM_TRIO_DE_CHOC); 
 																
 		private var agents:Array;
 
