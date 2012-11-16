@@ -50,7 +50,9 @@
 																
 		public static const TEAM_TRIO_DE_CHOC:BotTeam = new BotTeam(	"TeamTrioDeChoc",
 																0x00127255,
-																new Array(AgentType.AGENT_BOT));														
+																new Array(
+																	TeamTrioDeChoc.BOT_GENERIQUE
+																	));														
 																
 															
 		
